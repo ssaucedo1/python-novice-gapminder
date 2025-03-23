@@ -1,0 +1,9 @@
+    1  passwd
+    2  mv backup/
+    3  mv backup/ python-novice-gapminder-data
+    4  history
+    5  cd python-novice-gapminder-data
+    6  cd data/
+    7  mkdir carpentries
+    8  cd carpentries/
+    9  history > history.txt
